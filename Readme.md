@@ -20,4 +20,5 @@ The original speeches for each speaker were single lengthy audio files, which ha
 
 Additionally, there is a folder called `background_noise` containing audio clips that are not speeches but represent ambient sounds found inside and around the speaker environment, such as audience laughing or clapping. These can be mixed with the speeches during training for a more realistic environment.
 
-The dataset details can be found at [Kaggle Dataset]([https://www.kaggle.com/datasetname](https://www.kaggle.com/datasets/kongaevans/speaker-recognition-dataset)).
+The dataset details can be found at Kaggle Dataset (https://www.kaggle.com/datasets/kongaevans/speaker-recognition-dataset).
+
